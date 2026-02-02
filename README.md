@@ -1,7 +1,7 @@
 Code utilizes Python and SQL to query trends in Chicago Traffic database that is publicly available.
 
 
-chicago-traffic-cameras.db
+**chicago-traffic-cameras.db**
 
 
 
