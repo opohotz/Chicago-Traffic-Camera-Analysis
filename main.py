@@ -50,8 +50,7 @@ def print_stats(dbConn):
 #
 dbConn = sqlite3.connect('chicago-traffic-cameras.db')
 
-print("Project 1: Chicago Traffic Camera Analysis")
-print("CS 341, Spring 2025")
+print("Chicago Traffic Camera Analysis")
 print()
 print("This application allows you to analyze various")
 print("aspects of the Chicago traffic camera database.")
@@ -420,4 +419,5 @@ print("Exiting program.")
 dbConn.close()
 #
 # done
+
 #
